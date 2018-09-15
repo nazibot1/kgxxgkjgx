@@ -1,0 +1,6 @@
+token=NDkwNjYyMTA0MDYwMjY0NDc5.Dn8kWw.qfByzl20Hr09WEMm9EzIrSQPgn8
+owner=465701100352176128
+prefix=Ee
+game=h
+stayinchannel=true
+songinstatus=false
