@@ -1,4 +1,4 @@
-token=NDc0NTg1ODYwOTYxMjA2Mjcz.DoHnoQ.R8o8wwfj9DOX4gYAEPK3tDrTFBc
+token=NDc0NTg1ODYwOTYxMjA2Mjcz.DoHoUg.46y0pLeqDpJPHD8sr3t0LI_JfWs
 owner=479230716551495681
 prefix=Ee
 game=
